@@ -2,3 +2,7 @@ Hi, I am Priyadarshini. I am currently studying B.Tech in Computer Science and I
 Skill: Learning Python
 Interest: cloud computing
 Goal: contribute to open source
+## Projects
+
+### Student Grade Calculator
+A simple project that calculates and displays student grades based on marks.
