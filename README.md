@@ -1,1 +1,2 @@
 Hi, I am Priyadarshini. I am currently studying B.Tech in Computer Science and Information Technology at Reva University. I am learning programming, data structures, and software development, and I am interested in improving my coding skills. This repository is created to document my learning journey, practice Git and GitHub, and maintain my programming work and projects.
+Skill: Learning Python
